@@ -1,0 +1,1 @@
+npx tailwindcss -i ./src/setuptailwind.css -c ./tailwind.config.js -o ./src/tailwind.css
